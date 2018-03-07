@@ -1,0 +1,16 @@
+{
+  "name": "noodle",
+  "main": "noodle.js",
+  "version": "0.0.0",
+  "authors": [
+    "Stephen Timko <Stephen.Timko@infor.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
